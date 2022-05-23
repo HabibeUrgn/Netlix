@@ -1,2 +1,2 @@
 # Netflix
-Netlix Web Project
+Netflix Web Project
