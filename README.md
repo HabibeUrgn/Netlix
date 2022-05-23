@@ -1,2 +1,2 @@
-# Netlix
+# Netflix
 Netlix Web Project
